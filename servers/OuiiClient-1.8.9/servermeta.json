@@ -1,0 +1,18 @@
+{
+  "$schema": "file:///C:/workspace/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "OuiiClient (Minecraft 1.8.9)",
+    "description": "OuiiClient Running Minecraft 1.8.9",
+    "icon": "https://cdn.discordapp.com/attachments/1247682567516459170/1372556196359307355/image.png?ex=68273412&is=6825e292&hm=bc542baed3ac63dd9769abd02f7167d33792a9782772ee288fc01b2d1518279c&",
+    "address": "mc.gamster.org",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "untrackedFiles": []
+}
